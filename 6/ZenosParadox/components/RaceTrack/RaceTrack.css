@@ -1,0 +1,8 @@
+.racetrack {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: #A9A9A9;
+    overflow: hidden;
+  }
+  

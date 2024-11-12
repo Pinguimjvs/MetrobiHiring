@@ -1,0 +1,9 @@
+.related-posts{
+    display: flex;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    width: 30%;
+    height: 100%;
+    color: white;
+    background-color: pink;
+  }

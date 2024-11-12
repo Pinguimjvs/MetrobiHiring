@@ -1,0 +1,9 @@
+.related-images{
+  display: flex;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  width: 70%;
+  height: 100%;
+  color: white;
+  background-color: green;
+  }
